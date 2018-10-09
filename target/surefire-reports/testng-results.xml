@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5098" started-at="2018-10-07T09:17:54Z" finished-at="2018-10-07T09:17:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5098" started-at="2018-10-07T09:17:54Z" finished-at="2018-10-07T09:17:59Z">
+      <class name="configs.setupDetails">
+        <test-method status="PASS" signature="setup_001()[pri:0, instance:configs.setupDetails@68837a77]" name="setup_001" is-config="true" duration-ms="5095" started-at="2018-10-07T09:17:54Z" finished-at="2018-10-07T09:17:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup_001 -->
+      </class> <!-- configs.setupDetails -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
